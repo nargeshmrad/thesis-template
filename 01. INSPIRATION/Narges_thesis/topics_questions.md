@@ -308,7 +308,6 @@ player controls the hero Link on his quest to save the Princess Zelda.
 and features a quest for a mythical city named Shambhala.
 8. Never Alone: Based on Inuit folklore, the game features a young Inuit girl named
 Nuna and her Arctic fox as they explore the cultural traditions of the Inuit people.
-Regenerate response
 
 
 # 4. The potential of video games as a tool for cultural preservation,
