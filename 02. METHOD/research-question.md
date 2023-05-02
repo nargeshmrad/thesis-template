@@ -171,12 +171,19 @@ How can visual artists collaborate with other experts, such as writers and game 
 
 # VideoGamers:
 What games have you played which taught you a lot about the history, mythologies and folklore?
+
 Which elements in the game aided you better in learning? Visuals, Texts, Gameplay, Communication with other gamers, ...
+
 Have you learned about gender roles in a game?
+
 Have you ever played a game and chose another gender as a player?
+
 Has this given you a new perception of being another gender in your life?
+
 How do you evaluate the experience of choosing another gender?
+
 Have you ever played a game where you played as a character of a different gender? If so, what was that experience like for you?
+
 Do you feel that playing as a character of a different gender in a game can help you to empathize with people of that gender in real life? Why or why not?
 
 Have you ever learned something new about a gender or gender identity through playing as a character of that gender in a game? If so, what did you learn?
@@ -196,9 +203,14 @@ What are some examples of games that you feel have effectively addressed gender 
 Overall, how do you feel about games that allow players to role-play as characters of different genders, and what do you think their potential impact could be on society?
 
 Who?  Gender-Questioning people, 
+
 WHere? Iran
+
 What? How can new media revive Iranian old mythologies and folklores and modify the role of genders in them to align them with the modern society? How can these media including  text and visual narratives educate the users to perceive how different genders live? --<> role playing in video games
 Exploring the Role of Gender and Mythology in Empathy and Social Connection in Gaming
+
 When? From the old-fashioned media to new media
+
 Why? Because the folklore is dying 
+
 How? By Rewriting, and repainting them these visuals and texts based on the gender roles in new society, then creating new media or videogames with a story based on psychological problem
