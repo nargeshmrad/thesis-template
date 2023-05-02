@@ -214,3 +214,19 @@ When? From the old-fashioned media to new media
 Why? Because the folklore is dying 
 
 How? By Rewriting, and repainting them these visuals and texts based on the gender roles in new society, then creating new media or videogames with a story based on psychological problem
+
+
+# Method:
+
+
+User research: interviews, surveys, focus groups, usability testing, and observation.
+
+Literature review: This involves reviewing existing research and literature related to the design topic or problem. It can help designers gain a better understanding of relevant theories, concepts, and best practices.
+
+Data analysis: This involves analyzing data collected from user research, surveys, or other sources to gain insights and inform design decisions.
+
+Expert evaluation: This involves seeking feedback and insights from experts in the relevant field, such as designers, researchers, or industry professionals: Gmedesigners, visual artists, writers,...
+
+Contextual inquiry: This involves observing and interviewing users in their natural environment to gain insights into their needs and behaviors: Gamers, ...
+
+Collecting visuals and data on them
