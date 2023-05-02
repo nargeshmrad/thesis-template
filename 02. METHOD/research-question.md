@@ -230,3 +230,15 @@ Expert evaluation: This involves seeking feedback and insights from experts in t
 Contextual inquiry: This involves observing and interviewing users in their natural environment to gain insights into their needs and behaviors: Gamers, ...
 
 Collecting visuals and data on them
+
+
+
+
+
+
+Me-too movement
+war
+Mahsa-Amini
+White Wednesdays
+What is the Iranian women picture. How has it changed?
+important iranian women, men, and homosexuals
