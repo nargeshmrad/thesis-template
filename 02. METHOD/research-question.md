@@ -1,4 +1,4 @@
-Research Question:
+# Research Question:
 The use of mythology and folklore in media narratives and
 its impact on people perceptions of gender and culture (The role
 of video games in shaping and preserving cultural identity,
@@ -11,7 +11,7 @@ Exploring the Role of Gender and Mythology in Empathy and Social Connection in G
 
 Rewriting, and repainting them, then creating videogames with a story based on psychological problem
 
-Interviews:
+# Interviews:
 Interview with neuroscientists, writers, video gamers, role players, new media artists, and visual artists
 1-Soroush
 2-Danial
@@ -19,7 +19,7 @@ Interview with neuroscientists, writers, video gamers, role players, new media a
 4- Daniele Zullino
 5- Daphne Bavelier
 
-Games:
+# Games:
 
 assasins creed 1
 
@@ -44,7 +44,7 @@ near automata
 near automata replicant
 
 
-References:
+# References:
 The Use of Electronic Games in Therapy: a Review
 with Clinical Implications
 H. Lynn Horne-Moyer & Brian H. Moyer &
@@ -104,7 +104,7 @@ Karen E. Dill & Kathryn P. Thill
 
 
 
-Visuals:
+# Visuals:
 Shahname
 eskandarname
 kamalodin behzad
